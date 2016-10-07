@@ -10,11 +10,19 @@
     "vk",
     "player"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeekEdem/vkplay.git"
+  },
   "author": "Yuriy Chikhray, Volodymyr Krehovetskiy",
   "license": "MIT",
   "dependencies": {
+    "electron": "^1.4.3",
     "electron-vk-oauth2": "^1.0.2",
-    "sqlite": "^2.2.0",
-    "electron": "^1.4.3"
+    "file-exists": "^2.0.0",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.2.1"
   }
 }
