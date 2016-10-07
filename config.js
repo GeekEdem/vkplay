@@ -1,6 +1,6 @@
 exports.module = {
     vk: {
-        AppID:	"Pass here",
-        SecureKey: "Pass here"
+        AppID:	5659101,
+        SecureKey: "Uqyi4neeyrXgWR2Mi52i"
     }
 };
